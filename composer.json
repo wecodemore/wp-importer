@@ -1,0 +1,11 @@
+{
+	"name"              : "wcm/wp-importer",
+	"description"       : "WordPress importer plugin. Bug free version.",
+	"type"              : "wordpress-plugin",
+	"minimum-stability" : "dev",
+	"prefer-stable"     : true,
+	"license"           : "GPL2+",
+	"require"           : {
+		"php" : ">=5.2"
+	}
+}
